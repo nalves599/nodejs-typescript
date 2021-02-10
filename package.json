@@ -6,17 +6,12 @@
   "repository": "https://github.com/nalves599/auth-provider.git",
   "author": "Nuno Alves <nuno.alves02@gmail.com>",
   "license": "MIT",
-  "private": false,
+  "private": true,
   "scripts": {
     "start": "node server.js",
     "build": "tsc",
     "dev": "tsnd --transpile-only src/server.ts",
     "test": "jest"
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
   },
   "dependencies": {
     "express": "^4.17.1"
