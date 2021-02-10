@@ -1,9 +1,9 @@
 {
-  "name": "auth-provider",
+  "name": "nodejs-typescript",
   "version": "1.0.0",
-  "description": "Authentication Provider.",
+  "description": "An NodeJs API boilerplate including Typescript, Jest, ESLint, Commitlint, Husky and DockerCompose.",
   "main": "server.js",
-  "repository": "https://github.com/nalves599/auth-provider.git",
+  "repository": "https://github.com/nalves599/nodejs-typescript.git",
   "author": "Nuno Alves <nuno.alves02@gmail.com>",
   "license": "MIT",
   "private": true,
