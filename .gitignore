@@ -1,0 +1,13 @@
+# Node Modules
+node_modules/
+
+# Build Folder
+dist/
+
+# Environment Files
+.env
+.env.production
+.env.test
+
+# Jest
+globalConfig.json
